@@ -18,5 +18,10 @@ CRIM: per capita crime rate by town
 # Data Analysis and Preprocessing
 # Data visualization
 # Algorithms
+Compared the following algorithms:
+  - LinearRegression
+  - KNeighborsRegressor
+  - DecisionTreeRegressor
+  - Support Vector Machines
 # Results
 
