@@ -17,7 +17,7 @@ CRIM: per capita crime rate by town
   - MEDV: Median value of owner-occupied homes in $1000s We can see that the input attributes have a mixture of units.
 # Data Analysis and Preprocessing
 # Data visualization
-used graphs for data visualization like hearmap and histograms.
+used graphs for data visualization like heatmap and histograms.
 # Algorithms
 Compared the following algorithms:
   - LinearRegression
