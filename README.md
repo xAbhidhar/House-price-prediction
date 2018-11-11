@@ -19,7 +19,7 @@ CRIM: per capita crime rate by town
 # Data visualization
 used graphs for data visualization like heatmap and histograms.
 # Algorithms
-Compared the following algorithms:
+Implemented and compared the following algorithms:
   - LinearRegression
   - KNeighborsRegressor
   - DecisionTreeRegressor
