@@ -16,6 +16,7 @@ CRIM: per capita crime rate by town
   - LSTAT: % lower status of the population 
   - MEDV: Median value of owner-occupied homes in $1000s We can see that the input attributes have a mixture of units.
 # Data Analysis and Preprocessing
+Performed data preprocessing and analzed daata using correaltion to pick the best features.
 # Data visualization
 used graphs for data visualization like heatmap and histograms.
 # Algorithms
