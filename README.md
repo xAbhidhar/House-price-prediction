@@ -26,4 +26,5 @@ Implemented and compared the following algorithms:
   - DecisionTreeRegressor
   - Support Vector Machines
 # Results
+Gradient boosting algorithm provied us with the best results.
 
