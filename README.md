@@ -17,6 +17,7 @@ CRIM: per capita crime rate by town
   - MEDV: Median value of owner-occupied homes in $1000s We can see that the input attributes have a mixture of units.
 # Data Analysis and Preprocessing
 Performed data preprocessing and analzed daata using correaltion to pick the best features. Standardized the dataset using StandardScalar function.
+Implemented Kfold cross validation.
 # Data visualization
 used graphs for data visualization like heatmap and histograms.
 # Algorithms
