@@ -16,6 +16,10 @@ CRIM: per capita crime rate by town
   - LSTAT: % lower status of the population 
   - MEDV: Median value of owner-occupied homes in $1000s We can see that the input attributes have a mixture of units.
 # Data Analysis and Preprocessing
+
+## Determined the correaltiom between various features
+Pearson’s correlation coefficient is the test statistics that measures the statistical relationship, or association, between two continuous variables.  It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance.  It gives information about the magnitude of the association, or correlation, as well as the direction of the relationship
+
 Performed data preprocessing and analzed daata using correaltion to pick the best features. Standardized the dataset using StandardScalar function.
 Implemented Kfold cross validation.
 # Data visualization
