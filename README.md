@@ -1,4 +1,6 @@
 # House-price-prediction
+This project involves the prediction of house pricing using the Boston hosuing dataset.
+
 ## Dataset
 Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): 
 CRIM: per capita crime rate by town 
@@ -15,21 +17,26 @@ CRIM: per capita crime rate by town
   - B: 1000(Bk−0.63)2 where Bk is the proportion of blacks by town 
   - LSTAT: % lower status of the population 
   - MEDV: Median value of owner-occupied homes in $1000s We can see that the input attributes have a mixture of units.
+  
 # Data Analysis and Preprocessing
 
 ## Determined the correaltiom between various features
-Pearson’s correlation coefficient is the test statistics that measures the statistical relationship, or association, between two continuous variables.  It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance.  It gives information about the magnitude of the association, or correlation, as well as the direction of the relationship
+Pearson’s correlation coefficient is the test statistics that measures the statistical relationship, or association, between two continuous variables. It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance. It gives information about the magnitude of the association, or correlation, as well as the direction of the relationship
 
 Performed data preprocessing and analzed daata using correaltion to pick the best features. Standardized the dataset using StandardScalar function.
 Implemented Kfold cross validation.
+
+
 # Data visualization
 used graphs for data visualization like heatmap and histograms.
+
 # Algorithms
 Implemented and compared the following algorithms:
   - LinearRegression
   - KNeighborsRegressor
   - DecisionTreeRegressor
   - Support Vector Machines
+  
 # Results
 Gradient boosting algorithm provied us with the best results.
 
