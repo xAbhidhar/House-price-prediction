@@ -38,5 +38,5 @@ Implemented and compared the following algorithms:
   - Support Vector Machines
   
 # Results
-Gradient boosting algorithm provied us with the best results.
+Gradient boosting provied us with the best results.
 
