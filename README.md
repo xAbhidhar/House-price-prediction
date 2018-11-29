@@ -43,7 +43,20 @@ A linear regression line has an equation of the form Y = a + bX, where X is the 
   - KNeighborsRegressor
   - DecisionTreeRegressor
   - Support Vector Machines
-  
+
+
+# Steps performed during the execution
+
+These are the steps which were performed chronologically in the project:
+  - Loading libraries and data
+  - Data exploration and Data Visualization
+  - Data Preprocessing
+    - Data prepration
+  - Train and Evalute different models
+  - Standardize data and run algorithms again
+  - Selected the best algorithm with the minimum RMS value
+
+
 # Results
 Gradient boosting provied us with the best results.
 
