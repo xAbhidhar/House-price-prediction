@@ -41,6 +41,21 @@ A linear regression line has an equation of the form Y = a + bX, where X is the 
 
 
   - KNeighborsRegressor
+  
+  Some pros and cons of KNN
+Pros:
+
+No assumptions about data — useful, for example, for nonlinear data
+Simple algorithm — to explain and understand/interpret
+High accuracy (relatively) — it is pretty high but not competitive in comparison to better supervised learning models
+Versatile — useful for classification or regression
+Cons:
+
+Computationally expensive — because the algorithm stores all of the training data
+High memory requirement
+Stores all (or almost all) of the training data
+Prediction stage might be slow (with big N)
+Sensitive to irrelevant features and the scale of the data
   - DecisionTreeRegressor
   - Support Vector Machines
 
