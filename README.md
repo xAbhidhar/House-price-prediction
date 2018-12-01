@@ -57,6 +57,15 @@ Stores all (or almost all) of the training data
 Prediction stage might be slow (with big N)
 Sensitive to irrelevant features and the scale of the data
   - DecisionTreeRegressor
+  
+  Advantages of Decision Trees
+
+Decision trees are easy to interpret.
+To build a decision tree requires little data preparation from the user- there is no need to normalize data
+Disadvantages of Decision Trees
+
+Decision trees are likely to overfit noisy data. The probability of overfitting on noise increases as a tree gets deeper.
+  
   - Support Vector Machines
 
 
